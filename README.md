@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href = "https://github.com/bounswe/bounswe2018group4/wiki">
-    <img src="https://metrouk2.files.wordpress.com/2013/11/ad_119874557.jpg?quality=80&strip=all">
+    <img src="https://i1.wp.com/metro.co.uk/wp-content/uploads/2013/11/ad_119874557.jpg?quality=90&strip=all&zoom=1&resize=644%2C429">
   </a>
 </p>
 
